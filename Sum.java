@@ -5,6 +5,7 @@ public class Sum {
     public static void main(String[] args) {
         System.out.println("sum = " + (a+b));
         System.out.println("difference = " + (a-b));
+        System.out.println("difference1 = " + (a-b));
 
     }
 }
